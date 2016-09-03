@@ -1,7 +1,9 @@
 # GameJam1HourGameMakerReverse
 
-# First game maker made :)
+## First GameMaker game made :)
 
+
+### Theme = "Reverse"
 
 Entry into one hour game jam with Reverse theme. Using game maker for first time :)
 
