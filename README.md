@@ -19,3 +19,4 @@ Entry into one hour game jam with Reverse theme. Using game maker for first time
 
 
 
+Press r to restart game (if bugs). Press space to jump. Arrow keys to move. Get the power up to destroy the little monsters :) (reverse their soul / spirit).
